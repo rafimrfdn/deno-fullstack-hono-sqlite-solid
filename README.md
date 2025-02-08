@@ -1,3 +1,12 @@
+This project is a clone of [deno+solid](https://github.com/denoland/examples/tree/main/with-solidjs) with integration of Sqlite database to run CRUD function.
+
+## Tech stack
+- Deno
+- Hono
+- Sqlite
+- Vite
+- Solid JS
+
 ## Usage
 
 ### run seed data
