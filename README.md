@@ -7,6 +7,8 @@ This project is a clone of [deno+solid](https://github.com/denoland/examples/tre
 - Vite
 - Solid JS
 
+![deno fullstack hono sqlite solid ssr](./deno-fullstack-hono-sqlite-solid.png)
+
 ## Usage
 
 ### run seed data

@@ -71,7 +71,7 @@ export default function Index() {
 
   return (
     <main>
-      <h1>Welcome to the Dinosaur App</h1>
+      <h2>Dinosaur Crud</h2>
       <p>Click on a dinosaur below to learn more.</p>
 
       {/* Form for adding/updating dinosaurs */}
